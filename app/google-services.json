@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "933455372650",
+    "project_id": "taxipro-a03a3",
+    "storage_bucket": "taxipro-a03a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933455372650:android:0072b2366871ef537a8513",
+        "android_client_info": {
+          "package_name": "com.taxipro.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933455372650-8k5irkcntk2n34mq82si1lbh2bm79388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPrpD_vPc6OSXkf2p74396I7MgRKTCNF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933455372650-8k5irkcntk2n34mq82si1lbh2bm79388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933455372650:android:2d76b969f13de0e17a8513",
+        "android_client_info": {
+          "package_name": "com.teampro.taxiprocustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933455372650-37fcp7scq8fl9c77t4m38ikr7chqu9ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teampro.taxiprocustomer",
+            "certificate_hash": "f21f018f7dfa8971279f0ff311d4c0167b30a971"
+          }
+        },
+        {
+          "client_id": "933455372650-8k5irkcntk2n34mq82si1lbh2bm79388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPrpD_vPc6OSXkf2p74396I7MgRKTCNF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933455372650-8k5irkcntk2n34mq82si1lbh2bm79388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
